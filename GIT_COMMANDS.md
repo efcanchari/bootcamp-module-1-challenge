@@ -32,7 +32,7 @@ clone a repository using specific account
 git clone git@github.com-{bitbucket_username}:{workspace}/{repo}.git
 
 #example
-git clone github.com-efcanchari:efcanchari/frank-lapa-bootcamp.git
+git clone github.com-efcanchari:efcanchari/bootcamp-module-1-challenge.git
 ```
 
 
@@ -41,5 +41,5 @@ Update url, if you already have cloned the repo
 git remote set-url origin git@github.com-{bitbucket_username}:{workspace}/{repo}.git
 
 #example
-git remote set-url origin git@github.com-efcanchari:efcanchari/frank-lapa-bootcamp.git
+git remote set-url origin git@github.com-efcanchari:efcanchari/bootcamp-module-1-challenge.git
 ```
